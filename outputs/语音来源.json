@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "file": "audio/01.wav",
+    "original": "Taffy_123.wav",
+    "transcript": "挺像的喵，挺像的。",
+    "sha256": "2E09E2D1FBB6AB7E5A93B5AA2A8E61D111B553826BD11770EEB53E251F9B3996"
+  },
+  {
+    "id": 2,
+    "file": "audio/02.wav",
+    "original": "Taffy_138.wav",
+    "transcript": "塔菲想吃火锅，才八点才八点。",
+    "sha256": "DB9A02749CE2A59A0EEDD66658F9026C35667C46E4C536ADC5F14A34EC7EAE8E"
+  },
+  {
+    "id": 3,
+    "file": "audio/03.wav",
+    "original": "Taffy_149.wav",
+    "transcript": "嗯？塔菲侦探服不能挥手，换一个来挥手。",
+    "sha256": "53DF12C4D998CD8474615FC6AC662C7B1C2BF90C5DB2B3122AC92E01F33A16AE"
+  },
+  {
+    "id": 4,
+    "file": "audio/04.wav",
+    "original": "Taffy_156.wav",
+    "transcript": "雏草姬拜拜喵，拜拜喵，拜拜喵，拜拜喵。",
+    "sha256": "72B3BA6B7BFF667A6446471D5D9CCDB211CF994D2A60D156158F635CCCD4E2B9"
+  },
+  {
+    "id": 5,
+    "file": "audio/05.wav",
+    "original": "Taffy_160.wav",
+    "transcript": "拜拜喵，拜拜喵，润！润咯！润咯！",
+    "sha256": "F618D63BD575702900862FE2529DA0D27D5AD47EF5EAE20C7FADA825DD88CFB0"
+  },
+  {
+    "id": 6,
+    "file": "audio/06.wav",
+    "original": "Taffy_195.wav",
+    "transcript": "啊你可以呼呼了，塔菲今天跟已经，跟你讲了好多句话了。",
+    "sha256": "C422AA293D7ECE35ED4095BBD2ABCA5115BE9BE6DACEB69C7D0F5B1B748AC057"
+  },
+  {
+    "id": 7,
+    "file": "audio/07.wav",
+    "original": "Taffy_197.wav",
+    "transcript": "呃今天一天的任务算完成了晚安喵，呼呼喵。",
+    "sha256": "A60D32049C9F2F8B3250EE5A193DB3B645D526A8B739083BF5C344799B66D102"
+  },
+  {
+    "id": 8,
+    "file": "audio/08.wav",
+    "original": "Taffy_209.wav",
+    "transcript": "好爱雏草姬呀，今天播到几点？没想好。",
+    "sha256": "9599C736C99201428FEF56489A6B7974D7A4159C99420F2BA38FBEB17EEEFB04"
+  },
+  {
+    "id": 9,
+    "file": "audio/09.wav",
+    "original": "Taffy_276.wav",
+    "transcript": "塔菲没有糖啦，嗯！嗯！",
+    "sha256": "459CD2C01134E9CA8F77C69C0755ED347A49F77B77B4C95BAF11384881D63F6B"
+  },
+  {
+    "id": 10,
+    "file": "audio/10.wav",
+    "original": "t2~1_97.wav",
+    "transcript": "塔菲清纯可爱，塔菲，塔菲不清纯，塔菲烧热水。",
+    "sha256": "B0A06B2EC2220958361F46A689D0FE5410C1A796AEC3453420452142CC19CCCE"
+  }
+]
