@@ -67,7 +67,7 @@ public sealed class Pet : Window {
         SizeChanged += delegate { KeepOnScreen(); };
         timer.Interval = TimeSpan.FromMilliseconds(33); timer.Tick += Tick; timer.Start();
         tray = new System.Windows.Forms.NotifyIcon();
-        tray.Icon = System.Drawing.SystemIcons.Application; tray.Text = "永雏塔菲 · 双击召回 / 右键菜单";
+        tray.Icon = System.Drawing.Icon.ExtractAssociatedIcon(System.Reflection.Assembly.GetExecutingAssembly().Location); tray.Text = "永雏塔菲 · 双击召回 / 右键菜单";
         var trayMenu = new System.Windows.Forms.ContextMenuStrip();
         trayMenu.Items.Add("召回桌宠", null, delegate { Dispatcher.Invoke(new Action(delegate { Show(); ResetPosition(); })); });
         trayMenu.Items.Add("退出", null, delegate { Dispatcher.Invoke(new Action(Close)); });
@@ -500,3 +500,4 @@ public sealed class Pet : Window {
         }
     }
 }
+

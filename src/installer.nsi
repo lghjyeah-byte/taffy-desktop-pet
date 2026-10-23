@@ -4,6 +4,8 @@
 !include "FileFunc.nsh"
 !include "WinVer.nsh"
 !include "x64.nsh"
+Icon "${__FILEDIR__}\..\outputs\taffy.ico"
+UninstallIcon "${__FILEDIR__}\..\outputs\taffy.ico"
 Name "永雏塔菲桌宠"
 OutFile "..\outputs\永雏塔菲桌宠_安装包_v1.4.exe"
 InstallDir "$LOCALAPPDATA\Programs\TaffyDesktopPet"
@@ -142,6 +144,7 @@ Section "Uninstall"
     ${EndIf}
   ${EndIf}
   Delete "$INSTDIR\TaffyPet.exe"
+  Delete "$INSTDIR\taffy.ico"
   Delete "$INSTDIR\sprites.png"
   Delete "$INSTDIR\使用说明.md"
   Delete "$INSTDIR\语音来源.json"
@@ -173,3 +176,5 @@ Section "Uninstall"
   Delete "$INSTDIR\卸载桌宠.exe"
   RMDir "$INSTDIR"
 SectionEnd
+
+
