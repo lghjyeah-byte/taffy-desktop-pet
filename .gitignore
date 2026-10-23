@@ -1,0 +1,6 @@
+work/
+tests/
+logs/
+*.user
+*.pdb
+.DS_Store
